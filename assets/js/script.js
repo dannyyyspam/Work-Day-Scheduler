@@ -126,3 +126,5 @@ var auditTime = function () {
     };
 }
 // End Audit Timeblock
+
+auditTime();
