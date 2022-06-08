@@ -34,4 +34,4 @@ THEN the saved events persist
 
 ## Mock-Up
 The following animation demonstrates the application functionality:
-![GIF of the app in action](https://giphy.com/embed/Smdlz0QD0AoBsguubj)
+<img width="850" alt="Mock-Up" src=images/mock-up.gif>
