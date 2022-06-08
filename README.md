@@ -32,6 +32,21 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+# Credits
+
+Created by Daniel A.
+Starter code retrieved from: https://github.com/coding-boot-camp/super-disco.
+
 ## Mock-Up
-The following animation demonstrates the application functionality:
+
+### The following animation demonstrates the application functionality:
+
 ![GIF of the app in action](https://media.giphy.com/media/CLcrLYCXMbFnnrXzxC/giphy.gif)
+
+## **_Link to deployed URL_**
+
+https://dannyyyspam.github.io/Work-Day-Scheduler/
+
+## **_Link URL to GitHub Repository_**
+
+https://github.com/dannyyyspam/Work-Day-Scheduler
