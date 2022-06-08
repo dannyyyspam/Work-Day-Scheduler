@@ -34,4 +34,4 @@ THEN the saved events persist
 
 ## Mock-Up
 The following animation demonstrates the application functionality:
-<iframe src="https://giphy.com/embed/Smdlz0QD0AoBsguubj" width="480" height="278" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smdlz0QD0AoBsguubj">via GIPHY</a></p>
+![GIF of the app in action](https://giphy.com/embed/Smdlz0QD0AoBsguubj)
